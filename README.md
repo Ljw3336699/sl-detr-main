@@ -1,4 +1,4 @@
-# MC-DETR: Transformer for Small Object Detection via Multi Scale and Context Aware Learning
+# SL-DETR: Symbiotic Learning DEtection TRansformer via Multi-Scale and Context-Aware Fusion for Small Object
 
 ## Installation
 
